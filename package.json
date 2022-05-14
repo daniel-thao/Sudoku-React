@@ -1,0 +1,25 @@
+{
+  "name": "Sudoku-React",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:daniel-thao/Sudoku-React.git",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^3.6.2",
+    "bcrypt": "^5.0.1",
+    "concurrently": "^7.0.0",
+    "express": "^4.17.2",
+    "graphql": "^16.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "concurrently \"node server.js\" \"cd frontend && yarn start \"",
+    "backend": "nodemon server.js",
+    "watch": "concurrently \"nodemon server.js\" \"cd frontend && yarn start \"",
+    "seed": "node backend/seeders/index.js"
+  }
+}

@@ -1,0 +1,412 @@
+[
+  {
+    "answerKey": [
+      {
+        "placeOne": 5,
+        "placeTwo": 9,
+        "placeThree": 3,
+        "placeFour": 7,
+        "placeFive": 4,
+        "placeSix": 8,
+        "placeSeven": 6,
+        "placeEight": 2,
+        "placeNine": 1
+      },
+      {
+        "placeOne": 4,
+        "placeTwo": 2,
+        "placeThree": 1,
+        "placeFour": 6,
+        "placeFive": 3,
+        "placeSix": 9,
+        "placeSeven": 7,
+        "placeEight": 5,
+        "placeNine": 8
+      },
+      {
+        "placeOne": 8,
+        "placeTwo": 7,
+        "placeThree": 6,
+        "placeFour": 2,
+        "placeFive": 1,
+        "placeSix": 5,
+        "placeSeven": 9,
+        "placeEight": 4,
+        "placeNine": 3
+      },
+      {
+        "placeOne": 1,
+        "placeTwo": 6,
+        "placeThree": 9,
+        "placeFour": 4,
+        "placeFive": 3,
+        "placeSix": 7,
+        "placeSeven": 8,
+        "placeEight": 5,
+        "placeNine": 2
+      },
+      {
+        "placeOne": 2,
+        "placeTwo": 8,
+        "placeThree": 5,
+        "placeFour": 9,
+        "placeFive": 1,
+        "placeSix": 6,
+        "placeSeven": 3,
+        "placeEight": 4,
+        "placeNine": 7
+      },
+      {
+        "placeOne": 7,
+        "placeTwo": 3,
+        "placeThree": 4,
+        "placeFour": 5,
+        "placeFive": 2,
+        "placeSix": 8,
+        "placeSeven": 1,
+        "placeEight": 6,
+        "placeNine": 9
+      },
+      {
+        "placeOne": 9,
+        "placeTwo": 7,
+        "placeThree": 5,
+        "placeFour": 3,
+        "placeFive": 1,
+        "placeSix": 4,
+        "placeSeven": 2,
+        "placeEight": 8,
+        "placeNine": 6
+      },
+      {
+        "placeOne": 1,
+        "placeTwo": 6,
+        "placeThree": 4,
+        "placeFour": 8,
+        "placeFive": 9,
+        "placeSix": 2,
+        "placeSeven": 5,
+        "placeEight": 7,
+        "placeNine": 3
+      },
+      {
+        "placeOne": 3,
+        "placeTwo": 8,
+        "placeThree": 2,
+        "placeFour": 6,
+        "placeFive": 5,
+        "placeSix": 7,
+        "placeSeven": 4,
+        "placeEight": 9,
+        "placeNine": 1
+      }
+    ],
+    "startPoint": [
+      {
+        "placeOne": 0,
+        "placeTwo": 0,
+        "placeThree": 3,
+        "placeFour": 0,
+        "placeFive": 4,
+        "placeSix": 0,
+        "placeSeven": 6,
+        "placeEight": 0,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 0,
+        "placeThree": 0,
+        "placeFour": 6,
+        "placeFive": 0,
+        "placeSix": 9,
+        "placeSeven": 7,
+        "placeEight": 0,
+        "placeNine": 8
+      },
+      {
+        "placeOne": 8,
+        "placeTwo": 0,
+        "placeThree": 0,
+        "placeFour": 0,
+        "placeFive": 1,
+        "placeSix": 0,
+        "placeSeven": 0,
+        "placeEight": 0,
+        "placeNine": 3
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 6,
+        "placeThree": 9,
+        "placeFour": 0,
+        "placeFive": 0,
+        "placeSix": 0,
+        "placeSeven": 0,
+        "placeEight": 5,
+        "placeNine": 2
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 8,
+        "placeThree": 0,
+        "placeFour": 9,
+        "placeFive": 0,
+        "placeSix": 6,
+        "placeSeven": 0,
+        "placeEight": 4,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 7,
+        "placeTwo": 3,
+        "placeThree": 0,
+        "placeFour": 0,
+        "placeFive": 0,
+        "placeSix": 0,
+        "placeSeven": 1,
+        "placeEight": 6,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 9,
+        "placeTwo": 0,
+        "placeThree": 0,
+        "placeFour": 0,
+        "placeFive": 1,
+        "placeSix": 0,
+        "placeSeven": 0,
+        "placeEight": 0,
+        "placeNine": 6
+      },
+      {
+        "placeOne": 1,
+        "placeTwo": 0,
+        "placeThree": 4,
+        "placeFour": 8,
+        "placeFive": 0,
+        "placeSix": 2,
+        "placeSeven": 0,
+        "placeEight": 0,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 0,
+        "placeThree": 2,
+        "placeFour": 0,
+        "placeFive": 5,
+        "placeSix": 0,
+        "placeSeven": 4,
+        "placeEight": 0,
+        "placeNine": 0
+      }
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "answerKey": [
+      {
+        "placeOne": 2,
+        "placeTwo": 3,
+        "placeThree": 9,
+        "placeFour": 5,
+        "placeFive": 6,
+        "placeSix": 7,
+        "placeSeven": 8,
+        "placeEight": 1,
+        "placeNine": 4
+      },
+      {
+        "placeOne": 5,
+        "placeTwo": 8,
+        "placeThree": 7,
+        "placeFour": 1,
+        "placeFive": 4,
+        "placeSix": 2,
+        "placeSeven": 6,
+        "placeEight": 9,
+        "placeNine": 3
+      },
+      {
+        "placeOne": 6,
+        "placeTwo": 4,
+        "placeThree": 1,
+        "placeFour": 3,
+        "placeFive": 8,
+        "placeSix": 9,
+        "placeSeven": 7,
+        "placeEight": 2,
+        "placeNine": 5
+      },
+      {
+        "placeOne": 9,
+        "placeTwo": 8,
+        "placeThree": 2,
+        "placeFour": 1,
+        "placeFive": 7,
+        "placeSix": 5,
+        "placeSeven": 6,
+        "placeEight": 4,
+        "placeNine": 3
+      },
+      {
+        "placeOne": 3,
+        "placeTwo": 1,
+        "placeThree": 4,
+        "placeFour": 2,
+        "placeFive": 6,
+        "placeSix": 9,
+        "placeSeven": 8,
+        "placeEight": 7,
+        "placeNine": 5
+      },
+      {
+        "placeOne": 5,
+        "placeTwo": 6,
+        "placeThree": 7,
+        "placeFour": 8,
+        "placeFive": 3,
+        "placeSix": 4,
+        "placeSeven": 9,
+        "placeEight": 1,
+        "placeNine": 2
+      },
+      {
+        "placeOne": 7,
+        "placeTwo": 9,
+        "placeThree": 1,
+        "placeFour": 3,
+        "placeFive": 5,
+        "placeSix": 6,
+        "placeSeven": 4,
+        "placeEight": 2,
+        "placeNine": 8
+      },
+      {
+        "placeOne": 4,
+        "placeTwo": 3,
+        "placeThree": 8,
+        "placeFour": 9,
+        "placeFive": 2,
+        "placeSix": 1,
+        "placeSeven": 7,
+        "placeEight": 5,
+        "placeNine": 6
+      },
+      {
+        "placeOne": 2,
+        "placeTwo": 5,
+        "placeThree": 6,
+        "placeFour": 4,
+        "placeFive": 7,
+        "placeSix": 8,
+        "placeSeven": 1,
+        "placeEight": 9,
+        "placeNine": 3
+      }
+    ],
+    "startPoint": [
+      {
+        "placeOne": 2,
+        "placeTwo": 0,
+        "placeThree": 0,
+        "placeFour": 0,
+        "placeFive": 6,
+        "placeSix": 0,
+        "placeSeven": 0,
+        "placeEight": 0,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 8,
+        "placeThree": 0,
+        "placeFour": 0,
+        "placeFive": 0,
+        "placeSix": 0,
+        "placeSeven": 6,
+        "placeEight": 9,
+        "placeNine": 3
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 0,
+        "placeThree": 1,
+        "placeFour": 0,
+        "placeFive": 8,
+        "placeSix": 0,
+        "placeSeven": 0,
+        "placeEight": 0,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 0,
+        "placeThree": 2,
+        "placeFour": 1,
+        "placeFive": 0,
+        "placeSix": 5,
+        "placeSeven": 0,
+        "placeEight": 0,
+        "placeNine": 3
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 1,
+        "placeThree": 0,
+        "placeFour": 2,
+        "placeFive": 0,
+        "placeSix": 9,
+        "placeSeven": 0,
+        "placeEight": 7,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 5,
+        "placeTwo": 0,
+        "placeThree": 0,
+        "placeFour": 8,
+        "placeFive": 0,
+        "placeSix": 4,
+        "placeSeven": 9,
+        "placeEight": 0,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 0,
+        "placeThree": 0,
+        "placeFour": 0,
+        "placeFive": 5,
+        "placeSix": 0,
+        "placeSeven": 4,
+        "placeEight": 0,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 4,
+        "placeTwo": 3,
+        "placeThree": 8,
+        "placeFour": 0,
+        "placeFive": 0,
+        "placeSix": 0,
+        "placeSeven": 0,
+        "placeEight": 5,
+        "placeNine": 0
+      },
+      {
+        "placeOne": 0,
+        "placeTwo": 0,
+        "placeThree": 0,
+        "placeFour": 0,
+        "placeFive": 7,
+        "placeSix": 0,
+        "placeSeven": 0,
+        "placeEight": 0,
+        "placeNine": 3
+      }
+    ],
+    "difficulty": "Beginner"
+  }
+]
