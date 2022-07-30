@@ -17,9 +17,9 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "start": "concurrently \"node server.js\" \"cd frontend && yarn start \"",
+    "start": "concurrently \"node server.js\" \"cd client && yarn start \"",
     "backend": "nodemon server.js",
-    "watch": "concurrently \"nodemon server.js\" \"cd frontend && yarn start \"",
+    "watch": "concurrently \"nodemon server.js\" \"cd client && yarn start \"",
     "seed": "node backend/seeders/index.js"
   }
 }
